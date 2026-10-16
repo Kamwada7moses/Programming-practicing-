@@ -1,6 +1,6 @@
 # =========================================================
 # VICTORIA UNIVERSITY KAMPALA
-# PYTHON FOR DATA SCIENCE - COURSE WORK 3
+# PYTHON FOR DATA SCIENCE - COURSE WORK 1
 # Student: KAMWADA MUSA HIIRE
 # Reg No: VU-BAD-2607-2558-DAY
 # File: Musa.py - Contains everything
